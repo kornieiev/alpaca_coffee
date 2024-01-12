@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/alpaca_coffee/static/css/main.7acaea2f.css",
-    "main.js": "/alpaca_coffee/static/js/main.d96042e6.js",
+    "main.css": "/alpaca_coffee/static/css/main.b8520d08.css",
+    "main.js": "/alpaca_coffee/static/js/main.481465ab.js",
+    "static/media/main2.jpg": "/alpaca_coffee/static/media/main2.527b0d1a1144f67ecaad.jpg",
+    "static/media/main3.jpg": "/alpaca_coffee/static/media/main3.13d265bbd57c658c1483.jpg",
     "static/media/main-alpaca-img.jpg": "/alpaca_coffee/static/media/main-alpaca-img.e8d5ff11200aadb57582.jpg",
+    "static/media/main4.jpg": "/alpaca_coffee/static/media/main4.e73108977aa048389aef.jpg",
+    "static/media/main1.jpg": "/alpaca_coffee/static/media/main1.5f0f6c7fde9e40ebb58f.jpg",
     "index.html": "/alpaca_coffee/index.html",
-    "main.7acaea2f.css.map": "/alpaca_coffee/static/css/main.7acaea2f.css.map",
-    "main.d96042e6.js.map": "/alpaca_coffee/static/js/main.d96042e6.js.map"
+    "main.b8520d08.css.map": "/alpaca_coffee/static/css/main.b8520d08.css.map",
+    "main.481465ab.js.map": "/alpaca_coffee/static/js/main.481465ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.d96042e6.js"
+    "static/css/main.b8520d08.css",
+    "static/js/main.481465ab.js"
   ]
 }
