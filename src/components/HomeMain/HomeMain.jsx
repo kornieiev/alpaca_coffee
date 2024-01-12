@@ -1,7 +1,6 @@
 import React from 'react';
 import {
   HomeMainDiv,
-  HomeMainDivImg,
   HomeMainGridUl,
   HomeMainH1,
   HomeMainImg,
