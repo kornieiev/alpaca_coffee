@@ -1,6 +1,10 @@
 import React from 'react';
-import { PagesDiv } from './pages.styled';
+import HomeMain from 'components/HomeMain/HomeMain';
 
 export default function HomePage() {
-  return <div>{/* <h1>HOME page</h1> */}</div>;
+  return (
+    <div>
+      <HomeMain />
+    </div>
+  );
 }
