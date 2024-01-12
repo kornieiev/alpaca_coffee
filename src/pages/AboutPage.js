@@ -3,7 +3,7 @@ import React from 'react';
 export default function AboutPage() {
   return (
     <>
-      <h1>ABOUT page</h1>
+      <h1>Тут можливо колись буде сторінка про нас</h1>
     </>
   );
 }

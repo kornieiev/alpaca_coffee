@@ -1,3 +1,6 @@
 import styled from 'styled-components';
 
-export const SomeDiv = styled.div``;
+export const HomePageDiv = styled.div`
+  display: flex;
+  justify-content: center;
+`;

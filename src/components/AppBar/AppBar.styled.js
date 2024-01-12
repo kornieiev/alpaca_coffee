@@ -11,7 +11,6 @@ export const LinkNavLink = styled(NavLink)`
   color: black;
   text-decoration: none;
   padding: 5px 10px;
-  margin-bottom: 20px;
   cursor: pointer;
   position: relative;
   background: rgba(246, 252, 249, 0.4);

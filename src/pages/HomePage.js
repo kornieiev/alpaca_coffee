@@ -1,10 +1,11 @@
 import React from 'react';
 import HomeMain from 'components/HomeMain/HomeMain';
+import { HomePageDiv } from './pages.styled';
 
 export default function HomePage() {
   return (
-    <div>
+    <HomePageDiv>
       <HomeMain />
-    </div>
+    </HomePageDiv>
   );
 }
